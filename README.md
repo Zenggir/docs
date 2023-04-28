@@ -1,1 +1,1 @@
-# docs
+<?php include "index.php"?>
